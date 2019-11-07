@@ -1,0 +1,10 @@
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\bin\Debug\BurgerOrderForm.exe.config
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\bin\Debug\BurgerOrderForm.exe
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\bin\Debug\BurgerOrderForm.pdb
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\obj\Debug\BurgerOrderForm.Form1.resources
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\obj\Debug\BurgerOrderForm.Properties.Resources.resources
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\obj\Debug\BurgerOrderForm.csproj.GenerateResource.Cache
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\obj\Debug\BurgerOrderForm.csproj.CoreCompileInputs.cache
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\obj\Debug\BurgerOrderForm.exe
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\obj\Debug\BurgerOrderForm.pdb
+F:\C#\Lab8\BurgerOrderForm\BurgerOrderForm\obj\Debug\BurgerOrderForm.csprojResolveAssemblyReference.cache
